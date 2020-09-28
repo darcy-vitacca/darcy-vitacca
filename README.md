@@ -1,8 +1,6 @@
 ### Here is what I'm working on!👋
 
 
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...A React App for ecommerce connection between buyers and sellers.
 - 🌱 I’m currently learning ...GraphQL, Typescript, React
 - 👯 I’m looking to collaborate on ...Any projects that will accelerate growth.
