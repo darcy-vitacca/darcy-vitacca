@@ -8,6 +8,6 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on ...Any projects that will accelerate growth.
 - 🤔 I’m looking for help with ...Finding employment as a junior full stack developer
 - 💬 Ask me about ...Anything
-- 📫 How to reach me: ... [Portfolio Page](https://portfolio-d3449.web.app/)
+- 📫 How to reach me: ... [Portfolio Page](https://portfolio-3ce2a.web.app/)
 - My technical skills are based around these languages/frameworks: Vanilla JS, JavaScript(ES6), React, Redux, REST APIs, Node.Js, Express, Firebase, NoSQL, HTML, CSS, Python3. 
 
