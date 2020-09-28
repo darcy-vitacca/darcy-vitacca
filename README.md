@@ -1,7 +1,5 @@
 ### Here is what I'm working on!👋
 
-<!--
-**darcy-vitacca/darcy-vitacca** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -12,4 +10,4 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...Anything
 - 📫 How to reach me: ... [Portfolio Page](https://portfolio-d3449.web.app/)
 - 😄 Pronouns: ... He/Him
--->
+
