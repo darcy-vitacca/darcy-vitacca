@@ -1,7 +1,7 @@
 ### Here is what I'm working on!👋
 
 
-- 🔭 I’m currently working on ...A React App for ecommerce connection between buyers and sellers.
+- 🔭 I’m currently working on ...A React App for finding the best crowd sourced recipes.
 - 🌱 I’m currently learning ...GraphQL, Apollo, React, AWS
 - 👯 I’m looking to collaborate on ...Any projects that will accelerate growth.
 - 🤔 I’m looking for help with ...Finding employment as a junior full stack developer
